@@ -66,5 +66,16 @@ Here you can see the new role "Supreme Admin" is now available.
 
 + Next, we will CONFIGURE DEPARTMENTS.
 
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/a16934e9-9c08-4379-ae2c-dec116d61729" />
+
+Here we are on the Agents tab now click the DEPARTMENTS tab
+
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/d06214a7-199d-4482-8cc2-a00787595cb8" />
+
+Click Add New Department
+
+  
+
+
 
 
